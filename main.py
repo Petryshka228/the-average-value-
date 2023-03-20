@@ -1,6 +1,3 @@
-import numbers
-
-
 print('Все права защищены')
 
 while True:
